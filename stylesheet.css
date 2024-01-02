@@ -1,0 +1,13 @@
+a:link
+      {
+        color:aqua;
+        background-color: white;
+        text-decoration: none;
+        padding: 20px;
+      }
+a:visited
+      {
+        color:purple;
+        background-color: black;
+        padding: 20px;
+      }
